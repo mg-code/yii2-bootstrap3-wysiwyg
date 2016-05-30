@@ -17,8 +17,7 @@
     ],
     "minimum-stability": "stable",
     "require": {
-        "yiisoft/yii2": "*",
-        "bootstrap3-wysihtml5-bower": "*"
+        "yiisoft/yii2": "*"
     },
     "autoload": {
         "psr-4": {
